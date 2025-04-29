@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6e8fb849c9688db4985f2da18f10b931
+guid: fc09b859ebe0c0e41936a61abbf360fa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2327703449103141324
-    second: Rock-paper-scissors_(rock)_0
+      213: 4478806928032562832
+    second: nothing_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rock-paper-scissors_(rock)_0
+      name: nothing_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2500
-        height: 2500
+        width: 600
+        height: 600
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc98e3a44f9ad4020800000000000000
-      internalID: 2327703449103141324
+      spriteID: 09e70fadb2be72e30800000000000000
+      internalID: 4478806928032562832
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Rock-paper-scissors_(rock)_0: 2327703449103141324
+      nothing_0: 4478806928032562832
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

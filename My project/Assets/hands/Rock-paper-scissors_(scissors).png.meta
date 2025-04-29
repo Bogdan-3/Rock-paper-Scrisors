@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rock-paper-scissors_(scissors)_0: -502017954965072976
+      Rock-paper-scissors_(scissors)_1: 4774545927540013179
+      Rock-paper-scissors_(scissors)_10: -2705371787398489616
+      Rock-paper-scissors_(scissors)_2: 8051208344440785686
+      Rock-paper-scissors_(scissors)_3: 1925240934803865957
+      Rock-paper-scissors_(scissors)_4: 675282249434142999
+      Rock-paper-scissors_(scissors)_5: -6181326993154503
+      Rock-paper-scissors_(scissors)_6: -887767299013435800
+      Rock-paper-scissors_(scissors)_7: -6737477304088327542
+      Rock-paper-scissors_(scissors)_8: -7729216557159061217
+      Rock-paper-scissors_(scissors)_9: -6400513358453000681
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

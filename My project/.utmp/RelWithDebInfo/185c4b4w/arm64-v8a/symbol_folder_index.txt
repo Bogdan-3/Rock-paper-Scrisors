@@ -1,0 +1,1 @@
+C:\Users\Bogdan\Documents\GitHub\Rock-paper-Scrisors\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\185c4b4w\obj\arm64-v8a
